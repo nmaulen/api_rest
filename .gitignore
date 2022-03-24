@@ -1,1 +1,6 @@
+# node_modules instalar con npm i en consola
 node_modules
+
+# variables de entorno
+.env
+
